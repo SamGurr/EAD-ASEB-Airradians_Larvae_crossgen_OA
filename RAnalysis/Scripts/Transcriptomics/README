@@ -1,0 +1,13 @@
+**About TagSeq data** 
+
+* sequenced by RTL Genomics in Texas 
+
+* file names Gurr_7205Raw10042024_1.zip and Gurr_7205Raw10042024_2.zip
+	- uloaded to SEDNA in share/mefsc/mcfarland_sequences
+	- md5 checked and unziped here, raw 
+
+* RTL unable to sequences samples in wells A3, A7, A9, and B3 (email on Oct 18 2024) 
+
+* review the Sample_metadata for more information about the tank and treatment (parental * offspring OA) for each of the plate wells 
+
+
